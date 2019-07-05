@@ -1,6 +1,7 @@
 # mock-http
 
-<del>build a starter project for golang, including log, config, ctl, [statiq](https://github.com/bingoohuang/statiq) and etc.</del>
+模拟http请求返回
+![image](https://user-images.githubusercontent.com/3062921/60711252-0a8cba00-9f47-11e9-82fa-7a3c430c85a6.png)
 
 ## functions
 
