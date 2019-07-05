@@ -21,4 +21,6 @@ config.toml
 ctl
 var/
 
-go-starter
+mock-http
+
+*.db
